@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Chess from '@/components/Chess';
 export default function Home() {
   return (
